@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $black;
+  background: $black;
   font: 18px/1.4 $helvetica;
   color: $green;
 }
@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $lightblue;
   }
 }
 
