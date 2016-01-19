@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Don't Dumb It Down
 author: Romulus10
