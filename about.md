@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Still a student studying computer science. I basically just like taking things apart to see how they work. *Really* not a frontend developer.
+[Python](http://www.python.org) is a wonderful thing.
+Still a student studying computer science. I basically just like taking things apart to see how they work.
 *Developer, musician, actor- trying, anyway.*
 ## Projects
 ### [Akvanta](http://github.com/Romulus10/Akvanta)
