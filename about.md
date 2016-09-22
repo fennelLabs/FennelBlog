@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-[Python](http://www.python.org) is a wonderful thing.
-Still a student studying computer science. I basically just like taking things apart to see how they work.
-*Developer, musician, actor- trying, anyway.*
+Student of computing science, Python enthusiast.
+
 ## Projects
 ### [Akvanta](http://github.com/Romulus10/Akvanta)
 ### [Encrypted Messenger in Java](http://github.com/Romulus10/messenger)
