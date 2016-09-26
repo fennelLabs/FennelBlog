@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Student of computing science, Python enthusiast.
+Student of computing science, Python enthusiast. Very real interest in security and algorithmic efficiency. 
 
 # Projects
 ## [Akvanta](http://github.com/Romulus10/Akvanta)
