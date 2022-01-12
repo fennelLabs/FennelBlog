@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Milestone 1
+title: Milestone One
 author: Romulus10
 ---
